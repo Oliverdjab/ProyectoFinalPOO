@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug ProyectoFinal",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}/build/bin/proyectoFinal",
+        "args": [],
+        "cwd": "${workspaceFolder}",
+        "console": "integratedTerminal",
+        "MIMode": "gdb",
+        "miDebuggerPath": "/usr/bin/gdb",
+        "preLaunchTask": "Build ProyectoFinal"
+      },
+    ]
+  }
