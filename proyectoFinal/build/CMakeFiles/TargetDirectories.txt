@@ -1,0 +1,3 @@
+/workspaces/ProyectoFinalPOO/proyectoFinal/build/CMakeFiles/rebuild_cache.dir
+/workspaces/ProyectoFinalPOO/proyectoFinal/build/CMakeFiles/edit_cache.dir
+/workspaces/ProyectoFinalPOO/proyectoFinal/build/CMakeFiles/proyectoFinal.dir

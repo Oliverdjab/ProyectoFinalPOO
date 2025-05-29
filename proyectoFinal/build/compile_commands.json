@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/workspaces/ProyectoFinalPOO/proyectoFinal/build",
+  "command": "/usr/bin/clang++   -I/workspaces/ProyectoFinalPOO/proyectoFinal/include  -g   -o CMakeFiles/proyectoFinal.dir/main.cpp.o -c /workspaces/ProyectoFinalPOO/proyectoFinal/main.cpp",
+  "file": "/workspaces/ProyectoFinalPOO/proyectoFinal/main.cpp"
+}
+]

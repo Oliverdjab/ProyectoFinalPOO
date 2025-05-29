@@ -1,0 +1,1 @@
+/usr/bin/clang++  -g   CMakeFiles/proyectoFinal.dir/main.cpp.o  -o proyectoFinal 
